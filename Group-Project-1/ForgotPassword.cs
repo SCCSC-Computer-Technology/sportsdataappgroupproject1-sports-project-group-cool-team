@@ -23,5 +23,10 @@ namespace Group_Project_1
             Form1 mainForm = new Form1();
             mainForm.ShowDialog();
         }
+
+        private void btnSendReset_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

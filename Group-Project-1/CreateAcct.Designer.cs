@@ -151,6 +151,7 @@
             this.btnCreateAccount.TabIndex = 16;
             this.btnCreateAccount.Text = "&Create";
             this.btnCreateAccount.UseVisualStyleBackColor = true;
+            this.btnCreateAccount.Click += new System.EventHandler(this.btnCreateAccount_Click);
             // 
             // btnReturnToLoginCreate
             // 

@@ -62,6 +62,7 @@
             this.btnSendReset.TabIndex = 2;
             this.btnSendReset.Text = "&Send Reset Link";
             this.btnSendReset.UseVisualStyleBackColor = true;
+            this.btnSendReset.Click += new System.EventHandler(this.btnSendReset_Click);
             // 
             // btnReturnToLogin
             // 
