@@ -73,7 +73,15 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="NBAGame.cs" />
+    <Compile Include="NBAPlayer.cs" />
+    <Compile Include="NBAPlayerSeasonStat.cs" />
+    <Compile Include="NBAStanding.cs" />
     <Compile Include="NBATeam.cs" />
+    <Compile Include="NFLPlayer.cs" />
+    <Compile Include="NFLPlayerSeasonStat.cs" />
+    <Compile Include="NFLScheduleGame.cs" />
+    <Compile Include="NFLStanding.cs" />
     <Compile Include="NFLTeam.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
