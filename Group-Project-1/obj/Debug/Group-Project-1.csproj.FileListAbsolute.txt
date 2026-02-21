@@ -1,0 +1,29 @@
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\bin\Debug\Group-Project-1.exe.config
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\bin\Debug\Group-Project-1.exe
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\bin\Debug\Group-Project-1.pdb
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group-Project-1.csproj.AssemblyReference.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group_Project_1.CreateAcct.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group_Project_1.ForgotPassword.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group_Project_1.Form1.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group_Project_1.Properties.Resources.resources
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group-Project-1.csproj.GenerateResource.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group-Project-1.csproj.CoreCompileInputs.cache
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group-Project-1.exe
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group-Project-1.pdb
+G:\StephanieHamilton\SCC\Spring\Spring 2026\CPT-206\Group Projects\Group Project 1\Group-Project-1\obj\Debug\Group_Project_1.DataForm.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Project-1.csproj.AssemblyReference.cache
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\bin\Debug\Group-Project-1.exe.config
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\bin\Debug\Group-Project-1.exe
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\bin\Debug\Group-Project-1.pdb
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group_Project_1.CreateAcct.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group_Project_1.DataForm.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group_Project_1.ForgotPassword.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group_Project_1.Form1.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group_Project_1.Properties.Resources.resources
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Project-1.csproj.GenerateResource.cache
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Project-1.csproj.CoreCompileInputs.cache
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Pr.3D8BC148.Up2Date
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Project-1.exe
+C:\Users\Vasse\source\repos\sportsdataappgroupproject1-sports-project-group-cool-team-SethV05-patch-API\Group-Project-1\obj\Debug\Group-Project-1.pdb
