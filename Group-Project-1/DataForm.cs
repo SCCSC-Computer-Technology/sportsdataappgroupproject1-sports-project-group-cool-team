@@ -9,6 +9,9 @@ namespace Group_Project_1
 {
     public partial class DataForm : Form
     {
+        // store class info
+        private User _loggedInUser;
+
         //API Key
         private static readonly HttpClient _client = new HttpClient();
         private const string ApiKey = "f6d43bd8239c4fe7a38abcac1c0cb30c";
@@ -20,9 +23,19 @@ namespace Group_Project_1
         // Keep last loaded list so Search can filter it
         private object _lastLoadedData = null;
 
-        public DataForm()
+        public DataForm(User user)
         {
             InitializeComponent();
+
+            // ✅ user-related fix (null-safe)
+            _loggedInUser = user;
+
+            // If user is null for any reason, don't crash
+            if (_loggedInUser != null)
+                lblLoggedIn.Text = $"Logged in as: {_loggedInUser.Username}";
+            else
+                lblLoggedIn.Text = "Logged in as: (unknown)";
+
 
             // Grid defaults
             dgvData.AutoGenerateColumns = true;
@@ -62,6 +75,10 @@ namespace Group_Project_1
 
             // Initialize categories + visibility
             comboSports_SelectedIndexChanged(null, null);
+        }
+
+        public DataForm() : this(null)
+        {
         }
 
         // API Helpers

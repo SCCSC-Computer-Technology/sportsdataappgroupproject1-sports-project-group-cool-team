@@ -35,10 +35,9 @@
             this.label9 = new System.Windows.Forms.Label();
             this.txtFirstName = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
-            this.txtPhoneNum = new System.Windows.Forms.TextBox();
-            this.txtBirthday = new System.Windows.Forms.TextBox();
+            this.txtUsername = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
             this.txtLastName = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.btnCreateAccount = new System.Windows.Forms.Button();
             this.btnReturnToLoginCreate = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -47,21 +46,21 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(64, 235);
+            this.label1.Location = new System.Drawing.Point(49, 235);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(86, 19);
+            this.label1.Size = new System.Drawing.Size(97, 19);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Birthday:";
+            this.label1.Text = "Password:";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("MS Reference Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(82, 192);
+            this.label6.Location = new System.Drawing.Point(49, 192);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(68, 19);
+            this.label6.Size = new System.Drawing.Size(101, 19);
             this.label6.TabIndex = 6;
-            this.label6.Text = "Phone:";
+            this.label6.Text = "Username:";
             // 
             // label7
             // 
@@ -109,21 +108,21 @@
             this.txtEmail.Size = new System.Drawing.Size(240, 22);
             this.txtEmail.TabIndex = 11;
             // 
-            // txtPhoneNum
+            // txtUsername
             // 
-            this.txtPhoneNum.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPhoneNum.Location = new System.Drawing.Point(156, 189);
-            this.txtPhoneNum.Name = "txtPhoneNum";
-            this.txtPhoneNum.Size = new System.Drawing.Size(240, 22);
-            this.txtPhoneNum.TabIndex = 12;
+            this.txtUsername.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsername.Location = new System.Drawing.Point(156, 189);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Size = new System.Drawing.Size(240, 22);
+            this.txtUsername.TabIndex = 12;
             // 
-            // txtBirthday
+            // txtPassword
             // 
-            this.txtBirthday.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBirthday.Location = new System.Drawing.Point(156, 232);
-            this.txtBirthday.Name = "txtBirthday";
-            this.txtBirthday.Size = new System.Drawing.Size(240, 22);
-            this.txtBirthday.TabIndex = 13;
+            this.txtPassword.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassword.Location = new System.Drawing.Point(156, 232);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(240, 22);
+            this.txtPassword.TabIndex = 13;
             // 
             // txtLastName
             // 
@@ -132,15 +131,6 @@
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(240, 22);
             this.txtLastName.TabIndex = 14;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(153, 257);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 13);
-            this.label2.TabIndex = 15;
-            this.label2.Text = "ex: 01/02/1994";
             // 
             // btnCreateAccount
             // 
@@ -173,10 +163,9 @@
             this.ClientSize = new System.Drawing.Size(470, 336);
             this.Controls.Add(this.btnReturnToLoginCreate);
             this.Controls.Add(this.btnCreateAccount);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.txtLastName);
-            this.Controls.Add(this.txtBirthday);
-            this.Controls.Add(this.txtPhoneNum);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtFirstName);
             this.Controls.Add(this.label9);
@@ -201,10 +190,9 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txtFirstName;
         private System.Windows.Forms.TextBox txtEmail;
-        private System.Windows.Forms.TextBox txtPhoneNum;
-        private System.Windows.Forms.TextBox txtBirthday;
+        private System.Windows.Forms.TextBox txtUsername;
+        private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.TextBox txtLastName;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnCreateAccount;
         private System.Windows.Forms.Button btnReturnToLoginCreate;
     }
