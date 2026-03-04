@@ -57,15 +57,15 @@ namespace Group_Project_1
 
             MessageBox.Show("Account created!");
 
-            this.Hide();
-            new Form1().ShowDialog();
+            //this.Hide();
+            //new Form1().ShowDialog();
             this.Close();
         }
 
         private void btnReturnToLoginCreate_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            new Form1().ShowDialog();
+            //this.Hide();
+            //new Form1().ShowDialog();
             this.Close();
         }
     }

@@ -16,8 +16,8 @@ namespace Group_Project_1
 
         private void btnReturnToLogin_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            new Form1().ShowDialog();
+            //this.Hide();
+            //new Form1().ShowDialog(); //not nessary as Form1 already exists, this makes a new form
             this.Close();
         }
 
@@ -98,8 +98,8 @@ namespace Group_Project_1
 
             MessageBox.Show("Password updated! You can log in now.");
 
-            this.Hide();
-            new Form1().ShowDialog();
+            //this.Hide();
+            //new Form1().ShowDialog();
             this.Close();
         }
     }
