@@ -1,4 +1,5 @@
-﻿//Stephanie Hamilton
+﻿
+//Stephanie Hamilton
 //Michael McDonough
 //Seth Vassey
 //Robert Zheng
@@ -29,6 +30,7 @@ namespace Group_Project_1
             this.Hide();
             CreateAcct AcctForm = new CreateAcct();
             AcctForm.ShowDialog();
+            this.Show();
 
         }
 
@@ -37,6 +39,7 @@ namespace Group_Project_1
             this.Hide();
             ForgotPassword ForgotForm = new ForgotPassword();
             ForgotForm.ShowDialog();
+            this.Show();
 
         }
 

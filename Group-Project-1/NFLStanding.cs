@@ -4,6 +4,7 @@ namespace Group_Project_1
 {
     internal class NFLStanding
     {
+        //public string Key { get; set; }
         public string Team { get; set; }
 
         public string Name { get; set; }

@@ -16,6 +16,8 @@ namespace Group_Project_1
         public string AwayTeam { get; set; } = "";
         public string HomeTeam { get; set; } = "";
 
+        public string Matchup => $"{AwayTeam} @ {HomeTeam}"; //combine away and home team so they can be selected as one
+
         public int? AwayTeamScore { get; set; }
         public int? HomeTeamScore { get; set; }
 

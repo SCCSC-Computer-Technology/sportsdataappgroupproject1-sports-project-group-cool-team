@@ -108,6 +108,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -122,6 +123,73 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SportIcons\NBA\76ers.png" />
+    <Content Include="SportIcons\NBA\Bucks.png" />
+    <Content Include="SportIcons\NBA\Bulls.png" />
+    <Content Include="SportIcons\NBA\Cavaliers.png" />
+    <Content Include="SportIcons\NBA\Celtics.png" />
+    <Content Include="SportIcons\NBA\Clippers.png" />
+    <Content Include="SportIcons\NBA\Grizzlies.png" />
+    <Content Include="SportIcons\NBA\Hawks.png" />
+    <Content Include="SportIcons\NBA\Heat.png" />
+    <Content Include="SportIcons\NBA\Hornets.png" />
+    <Content Include="SportIcons\NBA\Jazz.png" />
+    <Content Include="SportIcons\NBA\Kings.png" />
+    <Content Include="SportIcons\NBA\Knicks.png" />
+    <Content Include="SportIcons\NBA\Lakers.png" />
+    <Content Include="SportIcons\NBA\Magic.png" />
+    <Content Include="SportIcons\NBA\Mavericks.png" />
+    <Content Include="SportIcons\NBA\NBALogo.png" />
+    <Content Include="SportIcons\NBA\Nets.png" />
+    <Content Include="SportIcons\NBA\Nuggets.png" />
+    <Content Include="SportIcons\NBA\Pacers.png" />
+    <Content Include="SportIcons\NBA\Pelicans.png" />
+    <Content Include="SportIcons\NBA\Pistons.png" />
+    <Content Include="SportIcons\NBA\Raptors.png" />
+    <Content Include="SportIcons\NBA\Rockets.png" />
+    <Content Include="SportIcons\NBA\Spurs.png" />
+    <Content Include="SportIcons\NBA\Suns.png" />
+    <Content Include="SportIcons\NBA\Thunder.png" />
+    <Content Include="SportIcons\NBA\Timberwolves.png" />
+    <Content Include="SportIcons\NBA\TrailBlazers.png" />
+    <Content Include="SportIcons\NBA\Warriors.png" />
+    <Content Include="SportIcons\NBA\Wizards.png" />
+    <Content Include="SportIcons\NFL\49ers.png" />
+    <Content Include="SportIcons\NFL\Bears.png" />
+    <Content Include="SportIcons\NFL\Bengals.png" />
+    <Content Include="SportIcons\NFL\Bills.png" />
+    <Content Include="SportIcons\NFL\Broncos.png" />
+    <Content Include="SportIcons\NFL\Browns.png" />
+    <Content Include="SportIcons\NFL\Buccaneers.png" />
+    <Content Include="SportIcons\NFL\Cardinals.png" />
+    <Content Include="SportIcons\NFL\Chargers.png" />
+    <Content Include="SportIcons\NFL\Chiefs.png" />
+    <Content Include="SportIcons\NFL\Colts.png" />
+    <Content Include="SportIcons\NFL\Commanders.png" />
+    <Content Include="SportIcons\NFL\Cowboys.png" />
+    <Content Include="SportIcons\NFL\Dolphins.png" />
+    <Content Include="SportIcons\NFL\Eagles.png" />
+    <Content Include="SportIcons\NFL\Falcons.png" />
+    <Content Include="SportIcons\NFL\Giants.png" />
+    <Content Include="SportIcons\NFL\Jaguars.png" />
+    <Content Include="SportIcons\NFL\Jets.png" />
+    <Content Include="SportIcons\NFL\Lions.png" />
+    <Content Include="SportIcons\NFL\NFLLogo.png" />
+    <Content Include="SportIcons\NFL\Packers.png" />
+    <Content Include="SportIcons\NFL\Panthers.png" />
+    <Content Include="SportIcons\NFL\Patriots.png" />
+    <Content Include="SportIcons\NFL\Raiders.png" />
+    <Content Include="SportIcons\NFL\Rams.png" />
+    <Content Include="SportIcons\NFL\Ravens.png" />
+    <Content Include="SportIcons\NFL\Saints.png" />
+    <Content Include="SportIcons\NFL\Seahawks.png" />
+    <Content Include="SportIcons\NFL\Steelers.png" />
+    <Content Include="SportIcons\NFL\Texans.png" />
+    <Content Include="SportIcons\NFL\Titans.png" />
+    <Content Include="SportIcons\NFL\Vikings.png" />
+    <Content Include="SportIcons\Red &amp; Black minimalist football.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
