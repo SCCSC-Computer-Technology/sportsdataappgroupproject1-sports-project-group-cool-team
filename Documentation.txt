@@ -1,0 +1,107 @@
+=====================================================================
+                         SPORTS DATA VIEWER
+=====================================================================
+
+OVERVIEW
+---------------------------------------------------------------------
+Sports Data Viewer is a desktop application built using C# and
+Windows Forms that retrieves and displays professional sports data
+through the SportsData.io API.
+
+The application allows users to view information about professional
+sports leagues such as the NFL and NBA, including teams, standings,
+and game scores. This project demonstrates how external APIs can be
+integrated into a desktop application to retrieve, process, and
+display real-time data.
+
+This application was developed as part of a software development
+group project focused on API integration, JSON data handling, and
+user interface development using C#.
+
+---------------------------------------------------------------------
+
+FEATURES
+---------------------------------------------------------------------
+- View NFL and NBA teams
+- Display league games
+- Retrieve game scores
+- Filter data by sport, season, and week and year
+- Search functionality for sports data
+- Data displayed using a ListBoxes / labes
+- JSON data converted into C# classes automatically
+
+---------------------------------------------------------------------
+
+TECHNOLOGIES USED
+---------------------------------------------------------------------
+- C#
+- .NET Windows Forms
+- SportsData.io API
+- Newtonsoft.Json
+- HTTP Client
+- Visual Studio
+
+---------------------------------------------------------------------
+
+HOW THE APPLICATION WORKS
+---------------------------------------------------------------------
+1. The user selects a sport within the application.
+2. The user chooses a sport
+3. The application sends a request to the SportsData.io API.
+4. The API returns sports data in JSON format.
+5. The JSON data is converted into C# objects using Newtonsoft.Json.
+6. The application displays the processed data in the user interface.
+
+---------------------------------------------------------------------
+
+INSTALLATION
+---------------------------------------------------------------------
+
+REQUIREMENTS
+- Visual Studio 2026
+- .NET Framework with Windows Forms support
+- Internet connection for API access
+
+SETUP
+1. Clone the repository
+
+https://github.com/SCCSC-Computer-Technology/sportsdataappgroupproject1-sports-project-group-cool-team.git
+
+2. Open the project in Visual Studio.
+
+3. Restore NuGet packages if prompted.
+
+4. Build and run the application.
+
+---------------------------------------------------------------------
+
+API INFORMATION
+---------------------------------------------------------------------
+This application uses the SportsData.io API to retrieve sports data
+such as teams, standings, and game results.
+
+Documentation:
+https://sportsdata.io/developers
+
+Note: An API key is required to access the API endpoints.
+
+
+---------------------------------------------------------------------
+
+CONTRIBUTORS
+---------------------------------------------------------------------
+Developed as part of a software development group project.
+
+Team Members:
+- Seth Vassey
+- Michael McDonough
+- Stephanie Hamilton
+- Robert Zheng
+
+---------------------------------------------------------------------
+
+LICENSE
+---------------------------------------------------------------------
+This project is intended for educational purposes.
+
+=====================================================================
