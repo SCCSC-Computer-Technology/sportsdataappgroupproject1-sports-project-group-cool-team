@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|c:\\users\\zapper\\documents\\scc\\cpt-206-a80h\\grouplabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\group-project-1\\dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|c:\\users\\zapper\\documents\\scc\\cpt-206-a80h\\grouplabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\group-project-1\\dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:dataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|c:\\users\\zapper\\documents\\scc\\cpt-206-a80h\\grouplabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\group-project-1\\nbaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:nbaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\createacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:createacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\createacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}|Group-Project-1.csproj|solutionrelative:createacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\DataForm.cs",
+              "RelativeDocumentMoniker": "DataForm.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\DataForm.cs [Design]*",
+              "RelativeToolTip": "DataForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T20:30:57.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NBAPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\NBAPlayer.cs",
+              "RelativeDocumentMoniker": "NBAPlayer.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\NBAPlayer.cs",
+              "RelativeToolTip": "NBAPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T20:05:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataForm.cs",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\DataForm.cs",
+              "RelativeDocumentMoniker": "DataForm.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\DataForm.cs*",
+              "RelativeToolTip": "DataForm.cs*",
+              "ViewState": "AgIAAKcDAAAAAAAAAAAkwLUDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\ForgotPassword.cs",
+              "RelativeToolTip": "ForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAcct.cs",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\CreateAcct.cs",
+              "RelativeDocumentMoniker": "CreateAcct.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\CreateAcct.cs",
+              "RelativeToolTip": "CreateAcct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAcct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\CreateAcct.cs",
+              "RelativeDocumentMoniker": "CreateAcct.cs",
+              "ToolTip": "C:\\Users\\Zapper\\Documents\\SCC\\CPT-206-A80H\\GroupLabs\\sportsdataappgroupproject1-sports-project-group-cool-team\\Group-Project-1\\CreateAcct.cs [Design]",
+              "RelativeToolTip": "CreateAcct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:18:30.774Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{411F4CB5-6C32-4D79-BB52-9C9E8CB84FC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Group_Project_1</RootNamespace>
+    <AssemblyName>Group-Project-1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateAcct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAcct.Designer.cs">
+      <DependentUpon>CreateAcct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataForm.Designer.cs">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NBAGame.cs" />
+    <Compile Include="NBAPlayer.cs" />
+    <Compile Include="NBAPlayerSeasonStat.cs" />
+    <Compile Include="NBAStanding.cs" />
+    <Compile Include="NBATeam.cs" />
+    <Compile Include="NFLPlayer.cs" />
+    <Compile Include="NFLPlayerSeasonStat.cs" />
+    <Compile Include="NFLScheduleGame.cs" />
+    <Compile Include="NFLStanding.cs" />
+    <Compile Include="NFLTeam.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserStorage.cs" />
+    <EmbeddedResource Include="CreateAcct.resx">
+      <DependentUpon>CreateAcct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataForm.resx">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SportIcons\NBA\76ers.png" />
+    <Content Include="SportIcons\NBA\Bucks.png" />
+    <Content Include="SportIcons\NBA\Bulls.png" />
+    <Content Include="SportIcons\NBA\Cavaliers.png" />
+    <Content Include="SportIcons\NBA\Celtics.png" />
+    <Content Include="SportIcons\NBA\Clippers.png" />
+    <Content Include="SportIcons\NBA\Grizzlies.png" />
+    <Content Include="SportIcons\NBA\Hawks.png" />
+    <Content Include="SportIcons\NBA\Heat.png" />
+    <Content Include="SportIcons\NBA\Hornets.png" />
+    <Content Include="SportIcons\NBA\Jazz.png" />
+    <Content Include="SportIcons\NBA\Kings.png" />
+    <Content Include="SportIcons\NBA\Knicks.png" />
+    <Content Include="SportIcons\NBA\Lakers.png" />
+    <Content Include="SportIcons\NBA\Magic.png" />
+    <Content Include="SportIcons\NBA\Mavericks.png" />
+    <Content Include="SportIcons\NBA\NBALogo.png" />
+    <Content Include="SportIcons\NBA\Nets.png" />
+    <Content Include="SportIcons\NBA\Nuggets.png" />
+    <Content Include="SportIcons\NBA\Pacers.png" />
+    <Content Include="SportIcons\NBA\Pelicans.png" />
+    <Content Include="SportIcons\NBA\Pistons.png" />
+    <Content Include="SportIcons\NBA\Raptors.png" />
+    <Content Include="SportIcons\NBA\Rockets.png" />
+    <Content Include="SportIcons\NBA\Spurs.png" />
+    <Content Include="SportIcons\NBA\Suns.png" />
+    <Content Include="SportIcons\NBA\Thunder.png" />
+    <Content Include="SportIcons\NBA\Timberwolves.png" />
+    <Content Include="SportIcons\NBA\TrailBlazers.png" />
+    <Content Include="SportIcons\NBA\Warriors.png" />
+    <Content Include="SportIcons\NBA\Wizards.png" />
+    <Content Include="SportIcons\NFL\49ers.png" />
+    <Content Include="SportIcons\NFL\Bears.png" />
+    <Content Include="SportIcons\NFL\Bengals.png" />
+    <Content Include="SportIcons\NFL\Bills.png" />
+    <Content Include="SportIcons\NFL\Broncos.png" />
+    <Content Include="SportIcons\NFL\Browns.png" />
+    <Content Include="SportIcons\NFL\Buccaneers.png" />
+    <Content Include="SportIcons\NFL\Cardinals.png" />
+    <Content Include="SportIcons\NFL\Chargers.png" />
+    <Content Include="SportIcons\NFL\Chiefs.png" />
+    <Content Include="SportIcons\NFL\Colts.png" />
+    <Content Include="SportIcons\NFL\Commanders.png" />
+    <Content Include="SportIcons\NFL\Cowboys.png" />
+    <Content Include="SportIcons\NFL\Dolphins.png" />
+    <Content Include="SportIcons\NFL\Eagles.png" />
+    <Content Include="SportIcons\NFL\Falcons.png" />
+    <Content Include="SportIcons\NFL\Giants.png" />
+    <Content Include="SportIcons\NFL\Jaguars.png" />
+    <Content Include="SportIcons\NFL\Jets.png" />
+    <Content Include="SportIcons\NFL\Lions.png" />
+    <Content Include="SportIcons\NFL\NFLLogo.png" />
+    <Content Include="SportIcons\NFL\Packers.png" />
+    <Content Include="SportIcons\NFL\Panthers.png" />
+    <Content Include="SportIcons\NFL\Patriots.png" />
+    <Content Include="SportIcons\NFL\Raiders.png" />
+    <Content Include="SportIcons\NFL\Rams.png" />
+    <Content Include="SportIcons\NFL\Ravens.png" />
+    <Content Include="SportIcons\NFL\Saints.png" />
+    <Content Include="SportIcons\NFL\Seahawks.png" />
+    <Content Include="SportIcons\NFL\Steelers.png" />
+    <Content Include="SportIcons\NFL\Texans.png" />
+    <Content Include="SportIcons\NFL\Titans.png" />
+    <Content Include="SportIcons\NFL\Vikings.png" />
+    <Content Include="SportIcons\Red &amp; Black minimalist football.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
